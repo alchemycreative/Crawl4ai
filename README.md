@@ -1,6 +1,3 @@
-# Video Demo for the implementation: 
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hdSwyAZeWXo/0.jpg)](https://www.youtube.com/watch?v=hdSwyAZeWXo "Want Craw4AI Free Deployments? Watch This Now")
 
 # 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
 
